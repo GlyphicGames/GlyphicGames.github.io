@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Dev(B)log`,
+    title: `Glyphic Games`,
     author: {
       name: `Brandon Devaleriola`,
       summary: `who lives and works in Remote Land.`,
